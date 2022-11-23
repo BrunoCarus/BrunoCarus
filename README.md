@@ -1,4 +1,4 @@
-## ☆ | 🚀 Ola Sou Bruno Henrique 🌐Desenvolvedor Front End🌐
+## ☆ | 💻 Ola Sou Bruno Henrique 🌐Desenvolvedor Front End🌐
 <div align="center">
   <a href="https://github.com/BrunoCarus">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=BrunoCarus&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
