@@ -5,6 +5,10 @@
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCarus&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
+
+  
+  ![Contribution](https://activity-graph.herokuapp.com/graph?username=BrunoCarus&color=7F3ACE&line=ffff&point=1E90FF&title_color=1E90FF&area_color=1E90FF&hide_border=true&area=true&bg_color=0d1117)
+  
 <div style="display: inline_block"><br>
   
   ## ☆ | 📚 Atualmente estudando as seguintes tecnologias
@@ -32,4 +36,4 @@
   <a href="https://www.linkedin.com/in/bruno-henrique-22a12823a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
