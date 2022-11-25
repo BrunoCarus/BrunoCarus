@@ -1,13 +1,17 @@
-## ☆ | 💻 Ola Sou Bruno Henrique 🌐Desenvolvedor Front End🌐
-<div align="center">
-  <a href="https://github.com/BrunoCarus">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=BrunoCarus&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCarus&layout=compact&langs_count=7&theme=dark"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Olá+So+BrunoHenrique+Desenvolvedor+FrontEnd+🌐;Tenho+19+Anos+😅;BemVindo+Ao+Meu+GitHub+:%29)](https://git.io/typing-svg)
+
+## ☆ | 💻 Status Code :
+  <div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BrunoCarus&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=7F3ACE&text_color=ffff&bg_color=0d1117" alt="Eric Felipe github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCarus&layout=compact&hide_border=true&title_color=1E90FF&text_color=ffff&bg_color=0d1117" />
 </div>
+
   
 
   
-  ![Contribution](https://activity-graph.herokuapp.com/graph?username=BrunoCarus&color=7F3ACE&line=ffff&point=1E90FF&title_color=1E90FF&area_color=1E90FF&hide_border=true&area=true&bg_color=0d1117)
+  ![Contribution](https://activity-graph.herokuapp.com/graph?username=BrunoCarus&color=7F3ACE&line=1E90FF&point=1E90FF&title_color=FFFFFF&area_color=1E90FF&hide_border=true&area=true&bg_color=0d1117)
   
 <div style="display: inline_block"><br>
   
@@ -37,3 +41,4 @@
 </div>
 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
+  
