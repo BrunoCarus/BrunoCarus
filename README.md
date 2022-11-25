@@ -15,7 +15,7 @@
   
 <div style="display: inline_block"><br>
   
-  ## ☆ | 📚 Atualmente estudando as seguintes tecnologias
+  ## ☆ | 📚 Atualmente estudando as seguintes tecnologias :
   
   <img align="center" alt="Bruno-HTML" height="30" width="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bruno-CSS" height="30" width="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -26,6 +26,12 @@
   
 </div>
    <img align="right" alt="bruno"height="175"style="borderradius:20px;"src="https://cdn.discordapp.com/attachments/1007920143977947206/1044739744053067826/gif.gif">
+
+  <div>
+  <h3>☆ | 📚 Outros:</h3>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="37" alt="vscode logo"  />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" height="40" width="37" alt="windows logo"/>
+  </div>
 
 <div>
   <h2>☆ |📚 Cursos</h2>
