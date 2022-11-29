@@ -4,7 +4,7 @@
 
 ## ☆  💻 Status Code :
   <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BrunoCarus&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=7F3ACE&text_color=ffff&bg_color=0d1117" alt="Eric Felipe github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BrunoCarus&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=ffff&bg_color=0d1117" alt="bruno stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCarus&layout=compact&hide_border=true&title_color=1E90FF&text_color=ffff&bg_color=0d1117" />
 </div>
 
