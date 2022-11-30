@@ -25,7 +25,6 @@
   <img align="center" alt="Bruno" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   
 </div>
-   <img align="right" alt="bruno"height="175"style="borderradius:20px;"src="https://cdn.discordapp.com/attachments/1007920143977947206/1044739744053067826/gif.gif">
 
   <div>
   <h3>☆  📚 Outros:</h3>
