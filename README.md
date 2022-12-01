@@ -28,7 +28,7 @@
 
   <div>
    <div align="center">
-  <h3>☆  📚 Outros:</h3>
+  <h3>☆  📚 Outros</h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="37" alt="vscode logo"  />
     <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" height="30" width="37" alt="windows logo"/>
     </div>
