@@ -7,9 +7,6 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BrunoCarus&show_icons=true&count_private=true&hide_border=true&title_color=00FF7F&icon_color=00FF7F&text_color=ffff&bg_color=0d1117" alt="bruno stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCarus&layout=compact&hide_border=true&title_color=00FF7F&text_color=ffff&bg_color=0d1117" />
 </div>
-
-  
-
   
   ![Contribution](https://activity-graph.herokuapp.com/graph?username=BrunoCarus&color=00FF7F&line=00FF7F&point=1E90FF&title_color=FFFFFF&area_color=1E90FF&hide_border=true&area=true&bg_color=0d1117)
   
@@ -25,8 +22,6 @@
     <img align="center" alt="Bruno" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Bruno" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
   </div>
-
-  
 </div>
 
   ##
@@ -38,9 +33,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" height="30" width="37" alt="windows logo"/>
     </div>
   </div>
-
-
-
+  
 <div >
   <div align="center">
   <h2>☆ 📚 Cursos</h2>
@@ -49,7 +42,6 @@
   </div>
 </div>
  
- 
 <div> 
   <div align="center">
   <h2>☆  😎 Rede Social e Contatos</h2>
@@ -57,8 +49,6 @@
   <a href="https://www.linkedin.com/in/bruno-henrique-22a12823a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
 </div>
-
-
 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=100&section=footer"/>
   
