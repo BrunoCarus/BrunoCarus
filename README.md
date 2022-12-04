@@ -1,8 +1,8 @@
 <!-- Gif Ondas... -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=100&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=header"/>
 
 <!-- Conteúdo Nomes Etc... -->
-[![Nome](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1070&lines=Olá+So+Bruno-Henrique+Desenvolvedor+Front-End+;Tenho+20+Anos+;Bem-Vindo+ao+Meu+Github)](https://git.io/typing-svg)
+[![Nome](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá+So+Bruno-Henrique+Desenvolvedor+Front-End+;Tenho+20+Anos+;Bem-Vindo+ao+Meu+Github)](https://git.io/typing-svg)
 
 <!-- Sobre Mim... -->
 <div>    
@@ -34,8 +34,8 @@
 <!-- Graficos Programação... -->
 <div align="center">  
 <h2>•|💻 Status Code 💻|•</h2> 
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BrunoCarus&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=ffff&bg_color=0d1117" alt="bruno stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCarus&layout=compact&hide_border=true&title_color=FF0000&text_color=ffff&bg_color=0d1117" />
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BrunoCarus&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=ffff&bg_color=0d1117" alt="bruno stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCarus&layout=compact&hide_border=true&title_color=00BFFF&text_color=ffff&bg_color=0d1117" />
 </div>
 
 <!-- Graficos Programação... -->
@@ -60,7 +60,7 @@
 </div>
     
 <!-- Graficos Programação... -->
-![Grafico](https://activity-graph.herokuapp.com/graph?username=BrunoCarus&color=FF0000&line=FF0000&point=FF0000&title_color=FFFFFF&area_color=FF0000&hide_border=true&area=true&bg_color=0d1117)
+![Grafico](https://activity-graph.herokuapp.com/graph?username=BrunoCarus&color=00BFFF&line=00BFFF&point=FF0000&title_color=FFFFFF&area_color=00BFFF&hide_border=true&area=true&bg_color=0d1117)
 
 <!-- Gif Ondas... -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=footer"/>
