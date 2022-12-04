@@ -12,7 +12,7 @@
   <p><a href="https://instagram001.netlify.app/" target="_blank">📱Painel De Login Instagram</a></p>
   <p><a href="https://brunocarus.github.io/Conversor/" target="_blank">💵Conversor De Moedas</a></p> 
   <p><a href="https://bmw001.netlify.app/" target="_blank">🚘Slide Card BMW</a></p> 
-  <h3>• 💎Esto Estudando Sobre : Desenvolvimento Front End</h3>
+  <h3>• 💎Estudando Sobre : Desenvolvimento Front End</h3>
 </div>
   
 <!-- Cursos... -->
