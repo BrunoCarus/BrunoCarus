@@ -34,7 +34,7 @@
 <!-- Graficos Programação... -->
 <div align="center">  
 <h2>•|💻 Status Code 💻|•</h2> 
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BrunoCarus&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=ffff&bg_color=0d1117" alt="bruno stats" /> 
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BrunoCarus&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=ffff&bg_color=0d1117" alt="bruno stats" /> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCarus&layout=compact&hide_border=true&title_color=FF0000&text_color=ffff&bg_color=0d1117" />
 </div>
 
