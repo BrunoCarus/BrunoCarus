@@ -8,7 +8,7 @@
 <div>    
   <h2>•|⚡𝐒𝐨𝐛𝐫𝐞 𝐌𝐢𝐦 ⚡|•</h2>
   <h3>• 💎𝐉𝐚́ 𝐃𝐞𝐬𝐞𝐧𝐯𝐨𝐥𝐯𝐢 𝐕𝐚𝐫𝐢𝐨𝐬 𝐏𝐫𝐨𝐣𝐞𝐭𝐨 𝐂𝐨𝐦 𝐇𝐓𝐌𝐋 𝐂𝐒𝐒 𝐉𝐒</h3>
-  <p><a href="https://brunocarus.github.io/Portfolio/" target="_blank">🦊𝐋𝐢𝐧𝐤 𝐃𝐨 𝐌𝐞𝐮 𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨</a></p>
+  <p><a href="https://brunocarus.github.io/Portfolio/" target="_blank">🦊𝐌𝐞𝐮 𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨</a></p>
   <p><a href="https://instagram001.netlify.app/" target="_blank">📱𝐏𝐚𝐢𝐧𝐞𝐥 𝐃𝐞 𝐋𝐨𝐠𝐢𝐧 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦</a></p>
   <p><a href="https://brunocarus.github.io/Conversor/" target="_blank">💵𝐂𝐨𝐧𝐯𝐞𝐫𝐬𝐨𝐫 𝐃𝐞 𝐌𝐨𝐞𝐝𝐚𝐬</a></p> 
   <p><a href="https://bmw001.netlify.app/" target="_blank">🚘𝐒𝐥𝐢𝐝𝐞 𝐂𝐚𝐫𝐝 𝐁𝐌𝐖</a></p> 
