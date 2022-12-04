@@ -49,5 +49,32 @@
   </div>
 </div>
 
+<div>
+  <br></br>
+   <h2 align="center">𝗩𝗔𝗠𝗢𝗦 𝗖𝗢𝗡𝗩𝗘𝗥𝗦𝗔𝗥!</h2>
+   
+   <div align='center'>
+   <img align='center' alt="nuvens" src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="100">
+   <img align='center' alt="nuvens" src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="100">
+   <img align='center' alt="nuvens" src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="100">
+   <img align='center' alt="nuvens" src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="100">
+   <img align='center' alt="nuvens" src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="100">
+   <img align='center' alt="nuvens" src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="100">
+   <img align='center' alt="nuvens" src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="100">
+   <img align='center' alt="nuvens" src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="100">
+   <img align='center' alt="nuvens" src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="100">
+   </div>
+
+   <br></br>
+  
+   <div align='center' >
+   <img align='center' alt="pokemon" src="https://media.giphy.com/media/TZco470UACpNK/giphy.gif" width="120">
+   </div>
+   </div>
+
+  <!-- finalização nuvens pokemon --></div>
+
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=100&section=footer"/>
   
+  
+
