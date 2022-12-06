@@ -58,8 +58,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" height="30" width="37" alt="windows logo"/>
 </div>
     
-<!-- Graficos Programação... -->
-![Grafico](https://activity-graph.herokuapp.com/graph?username=BrunoCarus&color=00BFFF&line=00BFFF&point=FF0000&title_color=FFFFFF&area_color=00BFFF&hide_border=true&area=true&bg_color=0d1117)
 
 <!-- Gif Ondas... -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=footer"/>
