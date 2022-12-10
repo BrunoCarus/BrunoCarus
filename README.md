@@ -15,14 +15,6 @@
   <p><a href="https://brunocarus.github.io/Conversor-Moedas/" target="_blank">💵Conversor De Moedas</a></p> 
 </div>  
 
-<!-- Cursos... -->
-
-<div align="center">  
-  <h2>•|📂 Cursos 📂|•</h2>
-  <h3>• 📚OneBitCode | Full Stack JavaScript | Instrutor : Leonardo Scorza</h3>
-  <h3>• 📚Kiwify | Missão Programação | Instrutor : Rodolfo Mori</h3>
-</div>
-
 <!--  Contato  -->
 
 <div align="center">  
