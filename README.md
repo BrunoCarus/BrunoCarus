@@ -1,63 +1,55 @@
-<!-- Gif Ondas... -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FA9A&height=100&section=header"/>
+<!-- Gif Ondas -->
 
-<!-- Conteúdo Nomes Etc... -->
-[![Nome](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá+So+Bruno-Henrique+Desenvolvedor+Front-End+;Tenho+20+Anos+;Bem-Vindo+ao+Meu+Github)](https://git.io/typing-svg)
+<!-- Slide Nome -->
 
-<!-- Sobre Mim... -->
-<div>    
-  <h2>•|⚡Sobre Mim ⚡|•</h2>
+[![Nome](https://readme-typing-svg.herokuapp.com/?color=00FA9A&size=35&center=true&vCenter=true&width=1000&lines=Olá+So+Bruno-Henrique+Desenvolvedor+Front-End;)](https://git.io/typing-svg)
+
+<!-- Sobre mim  --> 
+
+<div align="center">
+  <h2 >•|⚡Sobre Mim ⚡|•</h2>
   <h3>• 💎Já Desenvolvi Varios Projetos Com HTML CSS JS</h3>
   <p><a href="https://brunocarus.github.io/Portfolio/" target="_blank">🦊Meu Portfolio</a></p>
   <p><a href="https://instagram001.netlify.app/" target="_blank">📱Painel De Login Instagram</a></p>
   <p><a href="https://brunocarus.github.io/Conversor-Moedas/" target="_blank">💵Conversor De Moedas</a></p> 
-  <p><a href="https://bmw001.netlify.app/" target="_blank">🚘Slide Card BMW</a></p> 
-  <h3>• 💎Estudando Sobre : Desenvolvimento Front End</h3>
-</div>
-  
-<!-- Cursos... -->
-<div>  
-  <h2>•|📂 Cursos 📂|•</h2>
-  <h3>• 📚OneBitCode | Full Stack JavaScript | Instrutor : Leonardo Scorza</h3>
-  <h3>• 📚Kiwify | Missão Programação | Instrutor : Rodolfo Mori</h3>
-</div>
+</div>  
 
-<!-- Contatos-->
-<div> 
-  <div align="center">
-  <h2>•|🌍 Contato 🌍|•</h2>
-  <a href="https://www.instagram.com/_brunindz7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bruno-henrique-22a12823a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
-</div>
+<!--  Contato  -->
 
-<!-- Graficos Programação... -->
 <div align="center">  
-<h2>•|💻 Status Code 💻|•</h2> 
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BrunoCarus&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=ffff&bg_color=0d1117" alt="bruno stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCarus&layout=compact&hide_border=true&title_color=00BFFF&text_color=ffff&bg_color=0d1117" />
+<a href="https://www.instagram.com/_brunindz7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/bruno-henrique-22a12823a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<!-- Graficos Programação... -->
-<div style="display: inline_block"><br>
-  
-  <div align="center">
-  <h3>•|🌐 Atualmente estudando as seguintes tecnologias 🌐|•</h3> 
-  
-  <img align="center" alt="Bruno-HTML" height="30" width="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Bruno-CSS" height="30" width="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bruno" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Bruno" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  </div>
-</div>
+<!--  tecnologias  -->
 
-<!-- Graficos Programação... -->
 <div align="center">
-  <h3>•|🌐 Outros 🌐|•</h3>
+  <h3>•|🌐 Atualmente estudando as seguintes tecnologias 🌐|•</h3> 
+  <img align="center" alt="Bruno-HTML" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+  <img align="center" alt="Bruno-CSS" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+  <img align="center" alt="Bruno" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Bruno" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="Bruno" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
+  <img align="center" alt="Bruno" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+</div>
+
+<!--  Ferramentas  -->
+
+<div align="center">
+  <h3>•|🔱 Ferramentas 🔱|•</h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="37" alt="vscode logo"  />
     <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" height="30" width="37" alt="windows logo"/>
 </div>
-    
 
-<!-- Gif Ondas... -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=footer"/>
+<!-- Graficos Programação... -->
+
+<div align="center">  
+<h2>•|💻 Status Code 💻|•</h2> 
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BrunoCarus&show_icons=true&count_private=true&hide_border=true&title_color=00FA9A&icon_color=00FA9A&text_color=ffff&bg_color=0d1117" alt="bruno stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCarus&layout=compact&hide_border=true&title_color=00FA9A&text_color=ffff&bg_color=0d1117" />
+</div>
+
+
+<!-- Gif Ondas -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FA9A&height=100&section=footer"/>
