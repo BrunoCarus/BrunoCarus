@@ -11,6 +11,7 @@
   <h2 >•|⚡Sobre Mim ⚡|•</h2>
   <h3>• 💎Já Desenvolvi Varios Projetos Com HTML CSS JS</h3>
   <p><a href="https://portfolio0002.netlify.app/" target="_blank">🦊Meu Portfolio</a></p>
+  <p><a href="https://lenovo3i.netlify.app/" target="_blank">💻Layout Lenovo</a></p>
   <p><a href="https://insta01.netlify.app/" target="_blank">📱Painel De Login Instagram</a></p>
   <p><a href="https://brunocarus.github.io/Conversor-Moedas/" target="_blank">💵Conversor De Moedas</a></p> 
 </div>  
