@@ -32,7 +32,11 @@
   <img align="center" alt="Bruno-CSS" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
   <img align="center" alt="Bruno" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bruno" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="Bruno" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
+   <img align="center" alt="Bruno" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
 </div>
+
+
 
 <!--  Ferramentas  -->
 
@@ -49,7 +53,6 @@
   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BrunoCarus&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=ffff&bg_color=0d1117" alt="bruno stats" /> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCarus&layout=compact&hide_border=true&title_color=1E90FF&text_color=ffff&bg_color=0d1117" />
 </div>
-
 
 <!-- Gif Ondas -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=100&section=footer"/>
